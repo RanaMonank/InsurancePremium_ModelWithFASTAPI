@@ -1,0 +1,2 @@
+tier_1_cities = ['Chennai','Mumbai','Delhi','Pune','Kolkata','Hyderabad','Bangalore','Surat','Vadodara','Ahemedaba','Bharuch','Kutch','Rajkot']
+tier_2_cities = ['Jaipur', 'Indore',  'Kota', 'Chandigarh', 'Lucknow', 'Gaya','Jalandhar', 'Mysore']
